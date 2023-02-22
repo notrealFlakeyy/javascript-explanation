@@ -9,13 +9,15 @@ In addition to these basic methods, there are many other methods you can use wit
 // loop over the elements of the array using a for loop
 for (var i = 0; i < myArray.length; i++) {
   console.log(myArray[i]);
-}
+}`
+`
 // loop over the elements of the array using forEach()
 myArray.forEach(function(element) {
   console.log(element);
-});
+});`
+`
 // create a new array by mapping each element to a new value
 var doubledArray = myArray.map(function(element) {
   return element * 2;
-});
-`
+});`
+
