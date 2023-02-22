@@ -1,13 +1,13 @@
 # javascript-explanation
 
-[(variables.md)]
+[VARIABLES](variables.md)
 
-[(conditionals.md)]
+[CONDITIONALS](conditionals.md)
 
-[(loops.md)]
+[LOOPS](loops.md)
 
-[(functions.md)]
+[FUNCTIONS](functions.md)
 
-[(arrays.md)]
+[ARRAYS](arrays.md)
 
-[(objects.md)]
+[OBJECTS](objects.md)
