@@ -1,4 +1,4 @@
-Sure, I'd be happy to explain conditional statements in JavaScript!
+# CONDITIONALS
 
 Conditional statements in JavaScript allow you to execute different code depending on whether a certain condition is true or false. The most common conditional statements in JavaScript are if, else if, and else.
 
