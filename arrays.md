@@ -1,3 +1,5 @@
+# ARRAYS
+
 Arrays in JavaScript are used to store multiple values in a single variable. You can think of an array as a list of items, where each item has an index that identifies its position in the list. Arrays in JavaScript can contain any type of data, including strings, numbers, booleans, objects, and even other arrays.
 
 Here's an example of an array in JavaScript:
