@@ -3,7 +3,6 @@ Loops in JavaScript allow you to execute a block of code multiple times. The two
 Here's an example of a for loop:
 `
 var i = 0;
-
 while (i < 5) {
   console.log(i);
   i++;
